@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rsl:home|Door43 (rsl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rsl|d43-rsl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rsl/archive/master.zip|d43-rsl.zip]]
+
+**Recent Changes**
+{{changes>ns = rsl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rsl|Ethnologue data]]
+
